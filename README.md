@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Namgay Wangchuk</h1>
 <h3 align="center">🌍 Frontend Alchemist | UI Enthusiast | Web Crafter from Bhutan</h3>
 
